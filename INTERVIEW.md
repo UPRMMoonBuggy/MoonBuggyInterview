@@ -31,7 +31,7 @@ We need to have the computers and check their portfolio's (if mentioned in resum
   }
   return set.toArray()
   ```
-  This solution works since sets don't include duplicates but arrays do
+  This solution works since sets don't include duplicates but arrays do.
   **Note:** Multiple answers are possible. However this is a simple question so interviewee should be able to come up with an answer if he has taken any programming course
   **Evaluation for this question:**
     - Did the interviewee make any questions about the input?
