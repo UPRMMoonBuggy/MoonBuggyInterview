@@ -22,11 +22,20 @@ We need to have the computers and check their portfolio's (if mentioned in resum
   - The first question tests the way the candidate thinks when working with difficult bugs. Every candidate has their own process, but they must use a debugging tool, understand how to sift through each line of code using that tool, and then understand what must be done to fix the bug without affecting other code within a project.
   - The second question helps gauge how often a developer needs to debug his or her own code.
 - How do you find duplicate numbers in an array if it contains multiple duplicates?
-  - **Solution: ** 
+  - **Solution:**
   ```
+  (Pseudo code)
   set = {}
   ForEach element e in array{
     set.add(e)
   }
   return set.toArray()
   ```
+  This solution works since sets don't include duplicates but arrays do
+  **Note:** Multiple answers are possible. However this is a simple question so interviewee should be able to come up with an answer if he has taken any programming course
+  **Evaluation for this question:**
+    - Did the interviewee make any questions about the input?
+      - important that they do to understand the problem fully
+    - Answer should be O(n) at max
+      - anything more and the interviewee is clearly brute-forcing the solution
+    - Answer will be verbal but shouldn't take more than 5 minutes to answer.
