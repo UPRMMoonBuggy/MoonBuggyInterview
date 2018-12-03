@@ -22,10 +22,11 @@ We need to have the computers and check their portfolio's (if mentioned in resum
   - The first question tests the way the candidate thinks when working with difficult bugs. Every candidate has their own process, but they must use a debugging tool, understand how to sift through each line of code using that tool, and then understand what must be done to fix the bug without affecting other code within a project.
   - The second question helps gauge how often a developer needs to debug his or her own code.
 - How do you find duplicate numbers in an array if it contains multiple duplicates?
-  - **Solution: ** ``` java
+  - **Solution: ** 
+  ```
   set = {}
-ForEach element e in array{
-  set.add(e)
-}
-return set.toArray()
+  ForEach element e in array{
+    set.add(e)
+  }
+  return set.toArray()
   ```
