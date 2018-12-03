@@ -34,8 +34,8 @@ We need to have the computers and check their portfolio's (if mentioned in resum
   This solution works since sets don't include duplicates but arrays do.
   **Note:** Multiple answers are possible. However this is a simple question so interviewee should be able to come up with an answer if he/she has taken any programming course
   **Evaluation for this question:**
-    - Did the interviewee make any questions about the input?
-      - important that they do to understand the problem fully
-    - Answer should be O(n) at max
-      - anything more and the interviewee is clearly brute-forcing the solution
-    - Answer will be verbal but shouldn't take more than 5 minutes to answer.
+- Did the interviewee make any questions about the input?
+  - important that they do to understand the problem fully
+- Answer should be O(n) at max
+  - anything more and the interviewee is clearly brute-forcing the solution
+- Answer will be verbal but shouldn't take more than 5 minutes to answer.

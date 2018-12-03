@@ -1,4 +1,4 @@
 # MoonBuggyInterview
-questions for moonbuggy telemetry interviews
+questions for Moonbuggy telemetry interviews
 
-[Print here!](https://gitprint.com/jaortiz117/MoonBuggyInterview/blob/master/INTERVIEW.md)
+[Print here!](https://github.com/jaortiz117/MoonBuggyInterview/blob/master/printables/INTERVIEW.pdf)
