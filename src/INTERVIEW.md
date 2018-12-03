@@ -4,6 +4,10 @@
 We need to have the computers and check their portfolio's (if mentioned in resumé)
 
 ### Behavioral
+- What do you know about the Moonbuggy?
+  - Should at least mention competition (shows interest)
+  - **Follow up:** What is the purpose of the Telemetry department?
+    - These questions can easily be answered if they looked up the team online
 - Describe the project you've worked on that you're most proud of. What did you do that worked out particularly well? [source](https://www.infoworld.com/article/2685213/application-development/3-make-or-break-interview-questions-for-developers.html)
   - This tells me a lot about what they know, what they value, what actual positions they've held on a team, and whether they actually think about what they're doing.
   - **Follow up:** Describe the project you've worked on that you're least proud of. What would you do differently?
@@ -21,6 +25,10 @@ We need to have the computers and check their portfolio's (if mentioned in resum
 - What is your process for finding a bug in an application? How much time do you typically spend on debugging? [source](https://www.codementor.io/blog/software-engineer-interview-questions-3ey7wme14h)
   - The first question tests the way the candidate thinks when working with difficult bugs. Every candidate has their own process, but they must use a debugging tool, understand how to sift through each line of code using that tool, and then understand what must be done to fix the bug without affecting other code within a project.
   - The second question helps gauge how often a developer needs to debug his or her own code.
+- How can we create a database?
+  -  Answer: First we create a server, locally or externally, with a username and password (password is optional). Then we create the database on the server. Finally on the newly created DB we create as many tables as needed. **Note:** It's important to develop a simple sketch to know how the tables are going to work and determine how many tables are needed.
+  - **Follow up:** How can we link two different tables?
+    - Answer: with a primary and/or foreign key.
 - How do you find duplicate numbers in an array if it contains multiple duplicates?
   - **Solution:**
   ```
