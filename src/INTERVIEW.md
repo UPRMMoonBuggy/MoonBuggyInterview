@@ -13,7 +13,7 @@ We need to have the computers and check their portfolio's (if mentioned in resum
   - **Follow up:** Describe the project you've worked on that you're least proud of. What would you do differently?
     - I need people who can learn, and learning means making mistakes, recognizing that, and doing a better job next time.
 - How do you go about learning a new technology or framework
-  - **Follow up:** Where these technologies learned because of coursework or self learning?
+  - **Follow up:** Were these technologies learned because of coursework or self learning?
   - We are looking for learning dedication
 - How would you manage a project were you don't know the technologies used?
   - Testing initiative, willingness to learn and work ethic
