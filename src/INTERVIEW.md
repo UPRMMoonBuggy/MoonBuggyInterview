@@ -1,5 +1,5 @@
 # Interview Questions
-## December 2018
+## Before we begin:
 
 We need to have the computers and check their portfolio's (if mentioned in resumé)
 
